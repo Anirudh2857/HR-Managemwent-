@@ -1,1 +1,1 @@
-# HR-Managemwent-
+The above project is about the HR management. Our main pbjective in this project is to predict what is the most likelihood of an employee leaving the company. The dataset gives us all the elements of the employee. Based on the EDA  performed we deted certain column of the dataset. We also employed all the classification algorithms, Neural Net, and also boosting algorithms. The accuracy and EDA is in the code 
